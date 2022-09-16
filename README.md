@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yamini Agarwal
 - 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on App Development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me yaminiagarwal0307@gmail.com
 
 <!---
